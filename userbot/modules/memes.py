@@ -30,7 +30,6 @@ METOOSTR = [
     "`Haha yes, me too`",
     "`Same lol`",
     "`Me irl`",
-    "`HA me bhi bhai bsdk!`",
     "`Same here`",
     "`Haha yes`",
     "`Same pinch bsdk`",
@@ -39,11 +38,7 @@ NOOBSTR = [
     "`YOU PRO NIMBA DONT MESS WIDH MEH`",
     "`Haha yes`",
     "`NOOB NIMBA TRYING TO BE FAMOUS KEK`",
-    "`Sometimes one middle finger isn’t enough to let someone know how you feel. That’s why you have two hands`",
-    "`Some Nimbas need to open their small minds instead of their big mouths`",
     "`UH DONT KNOW MEH SO STAY AWAY LAVDE`",
-    "`Kysa kysaaaa haaan? Phir MAAR nhi Khayega tu?`",
-    "`Jikar Jinka hota hai galiyo meh woh bhosdika ajj paya gya naliyo me`",
 ]
 ZALG_LIST = [["̖",
               " ̗",
@@ -208,9 +203,6 @@ INSULT_STRINGS = [
     "`I'm sorry I hurt your feelings when I called you stupid. I thought you already knew that.`",
     "`You should try tasting cyanide.`",
     "`You should try sleeping forever.`",
-    "`Sharam kar bsdwale,kitni bkchodi deta.`",
-    "`Chup Madarhox, bilkul chup..`",
-    "`Me zindagi me chunotiyo se jyda inn jese Chutiyo se pareshaan hu.`",
     "`Pick up a gun and shoot yourself.`",
     "`Try bathing with Hydrochloric Acid instead of water.`",
     "`Go Green! Stop inhaling Oxygen.`",
@@ -220,7 +212,6 @@ INSULT_STRINGS = [
     "`Jaana chodu chad jake land chaat`",
     "`Yaar ajab tere nkhare,gazab tera style hain, gand dhone ki tameez nahi, haath main mobile hai`",
     "`People like you are the reason we have middle fingers.`",
-    "`When your mom dropped you off at the school, she got a ticket for littering.`",
     "`You’re so ugly that when you cry, the tears roll down the back of your head…just to avoid your face.`",
     "`If you’re talking behind my back then you’re in a perfect position to kiss my a**!.`",
 ]
@@ -385,18 +376,8 @@ RAPE_STRINGS = [
 ABUSE_STRINGS = [
        "`Madharchod`",
 	   "`Gaandu`",
-	   "`Chutiya he rah jaye ga`",
 	   "`Ja be Gaandu`",
-	   "`Ma ka Bharosa madharchod`",
-	   "`mml`",
-	   "`You MotherFeker`",
-	   "`Muh Me Lega Bhosdike ?`"
-	   "`Kro Gandu giri kam nhi toh Gand Maar lenge tumhari hum😂`",
-           "`Suno Lodu Jyda muh na chalo be muh me lawda pel Diyaa jayega`",
-           "`Sharam aagyi toh aakhe juka lijia land me dam nhi hai apke toh Shilajit kha lijia`",
-           "`Kahe Rahiman Kaviraaj C**t Ki Mahima Aisi,L**d Murjha Jaaye Par Ch**t Waisi Ki Waisi`",
-           "`Chudakkad Raand Ki Ch**T Mein Pele L*Nd Kabeer, Par Aisa Bhi Kya Choda Ki Ban Gaye Fakeer`",
-]
+]	   
 GEY_STRINGS = [
      "`you gey bsdk`",
      "`you gey`",
@@ -413,7 +394,6 @@ PRO_STRINGS = [
      "`Itna pro banda dekhlia bc, ab to marna hoga.`",
      "`U iz pro but i iz ur DAD, KeK`",
      "`What are you Bsdk? Human or Gawd(+_+)`",
-     "`Aye pro,ek baat yaad rakhna, Agar Bharosa khud par ho to ksi ki chut tumhari kamzori nahi bnskti.`",
 ]
 CHU_STRINGS = [
      "`Taare hai Asmaan me very very bright jaat na jla bskd dekh le apni hight.`",
@@ -547,7 +527,7 @@ CRI = [
     "(ノ﹏ヽ)",
     "(ノAヽ)",
     "(╥_╥)",
-    "(T⌓T)",
+    "(T⌓T)", 
     "(༎ຶ⌑༎ຶ)",
     "(☍﹏⁰)｡",
     "(ಥ_ʖಥ)",
